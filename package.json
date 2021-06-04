@@ -1,0 +1,18 @@
+{
+  "name": "landing_vpn",
+  "version": "1.0.0",
+  "description": "This is a landing page of company about Vpn networks",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "landing",
+    "vpn",
+    "html",
+    "js",
+    "javascript"
+  ],
+  "author": "Vladislav Kulikov",
+  "license": "ISC"
+}
